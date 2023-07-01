@@ -3451,9 +3451,21 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			} */
-			ul.custom-icons li {
+			/* ul.custom-icons li {
 				display: block;
 				width: 50%;
+			} */
+
+			/* Custom Icons */
+			ul.custom-icons li {
+				display: flex; /* Allows for alignment of items */
+				align-items: center; /* Vertically centers the text with the icon */
+				width: 50%;
+			}
+
+			ul.custom-icons li i {
+				font-size: 10px; /* Adjust as needed */
+				margin-right: 15px; /* Adjust as needed - adds space to the right of the icon */
 			}
 
 		/* Button */
