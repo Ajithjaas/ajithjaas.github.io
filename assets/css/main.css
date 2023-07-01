@@ -3464,8 +3464,8 @@ input, select, textarea {
 			}
 
 			ul.custom-icons li i {
-				font-size: 10px; /* Adjust as needed */
-				margin-right: 5px; /* Adjust as needed - adds space to the right of the icon */
+				font-size: 5px; /* Adjust as needed */
+				margin-right: 10px; /* Adjust as needed - adds space to the right of the icon */
 			}
 
 		/* Button */
