@@ -3464,5 +3464,17 @@ input, select, textarea {
 			.button {
 				padding: 0;
 			}
+			
+		/* Quote */
+		blockquote.quote {
+			font-size: 10px;
+			line-height: 1.4; /* Adjust as needed */
+			padding: 10px; /* Adjust as needed */
+			border-left: 4px solid #ccc; /* Adjust as needed */
+		}
 
+		blockquote.quote footer {
+			text-align: right;
+			color: #666; /* Adjust as needed */
+		}
 	}
