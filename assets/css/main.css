@@ -3458,7 +3458,7 @@ input, select, textarea {
 
 			/* Custom Icons */
 			ul.custom-icons li {
-				display: flex; /* Allows for alignment of items */
+				display: block;
 				align-items: right; /* Vertically centers the text with the icon */
 				width: 50%;
 			}
